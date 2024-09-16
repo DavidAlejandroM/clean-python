@@ -1,0 +1,3 @@
+scheduler-agent:
+  interval: 10 # seconds
+  name: datalake-agent
